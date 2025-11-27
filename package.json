@@ -1,0 +1,17 @@
+{
+  "name": "tbaggiezmetadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate_placeholder_metadata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@pinata/sdk": "^2.1.0",
+    "nft.storage": "^7.2.0"
+  }
+}
